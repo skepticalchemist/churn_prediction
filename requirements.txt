@@ -1,0 +1,16 @@
+pip install jupyterlab
+pip install numpy
+pip install matplotlib
+pip install missingno
+pip install pandas
+pip install scikit-learn
+
+pip install ipywidgets
+pip install sweetviz
+
+pip install autopep8
+pip install jupyterlab_code_formatter
+jupyter serverextension enable --py jupyterlab_code_formatter
+
+
+
