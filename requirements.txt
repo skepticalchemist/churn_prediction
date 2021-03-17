@@ -1,8 +1,10 @@
 pip install jupyterlab
-pip install numpy
+pip install lifetimes
 pip install matplotlib
 pip install missingno
+pip install numpy
 pip install pandas
+pip install plotly
 pip install scikit-learn
 
 pip install ipywidgets
