@@ -23,7 +23,7 @@ so that you complete in a reasonable time. The solution might not be ideal. The
 most important is that it is functional and adequate for the time given.
 ___________________________
 
-# The importance of **customer churn prediction** at Leo Vegas
+# The importance of customer churn prediction
 
 According to the Leo Vegas CEO, Gustaf Hagman (see the picture below), in 2018 the overall revenue of the company was around €360 million. Considering that online gambling is only 10% of the total gambling and that there is an increasing trend in everything going online the perspective of growing is promising.
 
