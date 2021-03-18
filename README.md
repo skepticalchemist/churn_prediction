@@ -80,3 +80,15 @@ pip install -r requirements.txt
 │   └── .ipynb_checkpoints
 └── requirements.txt
 ```
+
+# Execution sequence
+
+The notebooks should be executed in the following order:
+1. _eda.ipynb_: 
+   - performs an exploratory data analysis    
+2. _feature_eng.ipynb_:
+   - performs feature engineering
+3. _bg-nbd_model.ipynb_:
+   - implements the model BG-NBD
+4. _target_definition.ipynb_:
+   - uses the results from the model BG-NBD to define the target variable
