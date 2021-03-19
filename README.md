@@ -55,50 +55,13 @@ The notebooks should be executed in the following order:
 ```bash
 .
 ├── assets
-│   └── revenues.jpg
 ├── data
-│   ├── data.csv
-│   ├── df_from_casino_class_grp.csv
-│   ├── df_from_casino_classic.csv
-│   ├── df_from_eda.csv
-│   ├── df_from_eng.csv
-│   ├── df_from_gb-nbd.csv
-│   ├── .ipynb_checkpoints
-│   └── train.csv
 ├── .ipynb_checkpoints
-│   └── README-checkpoint.md
 ├── models
-│   ├── .ipynb_checkpoints
-│   ├── model_bg-nbd.pkl
-│   ├── model_tree_md5.joblib
-│   └── model_tree_model_default.joblib
 ├── notebooks
-│   ├── bg-nbd_model.ipynb
-│   ├── eda.ipynb
-│   ├── feature_eng.ipynb
-│   ├── .ipynb_checkpoints
-│   │   ├── bg-nbd_model-checkpoint.ipynb
-│   │   ├── eda-checkpoint.ipynb
-│   │   ├── feature_eng-checkpoint.ipynb
-│   │   ├── model_building-checkpoint.ipynb
-│   │   ├── target_definition-checkpoint.ipynb
-│   │   └── tests-checkpoint.ipynb
-│   ├── model_building.ipynb
-│   ├── target_definition.ipynb
-│   └── tree_model_default.dot
 ├── README.md
 ├── references
 ├── reports
-│   ├── eda_report.html
-│   ├── gender_report.html
-│   └── .ipynb_checkpoints
 ├── requirements.txt
 └── src
-    ├── model_eval.py
-    ├── plot_learning_curve.py
-    ├── __pycache__
-    │   ├── model_eval.cpython-38.pyc
-    │   ├── plot_learning_curve.cpython-38.pyc
-    │   └── tools.cpython-38.pyc
-    └── tools.py
 ```
