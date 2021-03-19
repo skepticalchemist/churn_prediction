@@ -1,2 +1,4 @@
 notebooks/tests.ipynb
 references/
+src/model_eval.py
+src/plot_learning_curve.py

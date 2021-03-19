@@ -14,5 +14,7 @@ pip install autopep8
 pip install jupyterlab_code_formatter
 jupyter serverextension enable --py jupyterlab_code_formatter
 
+pip install xgboost
 
-
+pip install graphviz
+pip install pydotplus
