@@ -45,7 +45,8 @@ The notebooks should be executed in the following order:
    - uses the results from the model BG-NBD to define the target variable
 5. _model_building.ipynb_:
    - build, select and evaluate the model
-
+6. _model_building_reduced_features.ipynb_:
+   - remove some features, build, select and evaluate the model
 
 
 
