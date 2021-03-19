@@ -10,6 +10,7 @@ from sklearn.model_selection import learning_curve
 from sklearn.tree import DecisionTreeClassifier
 
 
+
 def model_eval(y_test, y_pred):
     f1 = f1_score(y_test, y_pred)
     precision = precision_score(y_test, y_pred)
