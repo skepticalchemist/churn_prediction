@@ -1,4 +1,4 @@
-player_id_cat,deposit_approved_sum,withdrawal_approved_sum,turnover_cash_sum,winning_cash_sum,result_cash_sum,NGR_sum,bonus_cash_sum,session_sum,female,male,churn
+player_id_cat,deposit_approved_sum,withdrawal_approved_sum,turnover_cash_sum,winning_cash_sum,result_cash_sum,NGR_sum,bonus_cash_sum,session_sum,female,male,no_churn
 1,87,146,309,337,28,-29,106,81819,1.0,0.0,1
 2,1915,109,5003,3197,-1806,1785,98,28623,0.0,1.0,1
 4,91,0,280,189,-91,90,0,5468,0.0,1.0,1
